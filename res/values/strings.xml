@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">UISampler</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="activity_choice_prompt">Choose an Activity</string>
+    <string-array name="activity_choice_array">
+        <item>Keyboard Activity</item>
+        <item>Web Activity</item>
+        <item>List Activity</item>
+    </string-array>
+    <string name="submit_button">OK</string>
+    <string name="hide_button">Hide</string>
+    <string name="back_button">Back</string>
+    <string name="go_button">Go</string>
+
+</resources>
